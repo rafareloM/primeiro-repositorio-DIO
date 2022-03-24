@@ -1,0 +1,1 @@
+esse documento serve para eu treinar o uso de pull no gitbash
